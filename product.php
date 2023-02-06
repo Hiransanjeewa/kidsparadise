@@ -30,6 +30,7 @@ function changeImage(x) {
     }
 }
 function changeShipping() {
+    // shipping Rates are calculating in cart and aslo in checkout page as well
 
     // ***  Shipping Rates ***
     // First 2 kg 300 Lkr
